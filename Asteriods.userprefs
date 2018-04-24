@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ExitBox.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bullet.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\Shooting.cs" Line="17" Column="105" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="39" Column="53" />
+      <File FileName="Assets\Scripts\EnemieSpawner.cs" Line="16" Column="153" />
+      <File FileName="Assets\Scripts\EnemyDetection.cs" Line="40" Column="65" />
+      <File FileName="Assets\Scripts\ExitBox.cs" Line="7" Column="152" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
