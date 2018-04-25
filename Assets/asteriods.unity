@@ -140,7 +140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45049666e9657b64f81f9c81ec1546d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Enemies: []
+  Enemies:
+  - {fileID: 1097645892084720, guid: 649bf465d3361654eaa3e4bee5cd153f, type: 2}
 --- !u!4 &249073714
 Transform:
   m_ObjectHideFlags: 0
@@ -181,7 +182,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45049666e9657b64f81f9c81ec1546d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Enemies: []
+  Enemies:
+  - {fileID: 1097645892084720, guid: 649bf465d3361654eaa3e4bee5cd153f, type: 2}
 --- !u!4 &302229140
 Transform:
   m_ObjectHideFlags: 0
